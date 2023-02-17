@@ -4,8 +4,6 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me mail@cecil.my.id
 
-  <br>
-  <br>
 ### Github Stats
 <p align="left">
 <a href="https://github.com/ce3tnia">
